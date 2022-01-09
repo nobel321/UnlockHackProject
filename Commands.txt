@@ -1,0 +1,49 @@
+
+██████╗░██╗░░░░░░█████╗░███╗░░██╗███╗░░██╗██╗███╗░░██╗░██████╗░  ░██████╗██╗░░██╗███████╗███████╗████████╗
+██╔══██╗██║░░░░░██╔══██╗████╗░██║████╗░██║██║████╗░██║██╔════╝░  ██╔════╝██║░░██║██╔════╝██╔════╝╚══██╔══╝
+██████╔╝██║░░░░░███████║██╔██╗██║██╔██╗██║██║██╔██╗██║██║░░██╗░  ╚█████╗░███████║█████╗░░█████╗░░░░░██║░░░
+██╔═══╝░██║░░░░░██╔══██║██║╚████║██║╚████║██║██║╚████║██║░░╚██╗  ░╚═══██╗██╔══██║██╔══╝░░██╔══╝░░░░░██║░░░
+██║░░░░░███████╗██║░░██║██║░╚███║██║░╚███║██║██║░╚███║╚██████╔╝  ██████╔╝██║░░██║███████╗███████╗░░░██║░░░
+╚═╝░░░░░╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚══╝╚═╝╚═╝░░╚══╝░╚═════╝░  ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝░░░╚═╝░░░
+
+# System cmd
+date - displays date and time
+ping - pings a website and shows stats
+this - displays local IPS and Desktop Name
+lst - displays files and directories in main directory.
+
+# Math (ascii visualization)
+area.quad - user can type in width and height of a square and the program will generate a quadralateral with those dimensions.
+area.square - user can type in a numerical value that will determine the width and length of a square.
+area.triangle -isosceles - user can type in the width and height of an isosceles triangle and program will generate a triangle with those dimensions.
+peri.rect - user can type in each side length of a rectangle.
+
+# Calculator
+add - user can input how many numbers they want to add and then add them as suggested in a prompt.
+subtract - prompts 2 numbers and subtracts them.
+divide - system prompts 2 numbers and divides them.
+multiply - user can input how many numbers they want to subtract and then divides them as suggested in a prompt.
+factorial - system prompts a number and returns the factorial of said number.
+exponent - system prompts a number and the power the user wishes to raise said number to and does the operation, returning the number.
+factor - finds the factor of any number inputed by user.
+gcf - finds the GCF of any set of numbers inputed by user.
+lcm - finds the LCM
+log - finds the log base ___ of ___
+nlog - finds the natural log of a given number
+
+
+# Test (the program will save results in a txt file for future reference)
+test.add - does a short addition quiz
+test.subtract - does a short subtraction quiz
+test.divide - does a short division quiz
+test.multiply - does a short multiplication quiz
+test.area - does a short area quiz
+test.fraction - does a short fraction quiz (a work in progress...)
+
+...problem solving will be added to the mix soon.
+
+# Manuals
+.help - displays commands
+<command name>.help - displays any extensions for each command (if there aren't any extensions or other operations
+                      unders said command, it will print nothing)
+
